@@ -6,6 +6,10 @@ Welcome to my GitHub profile! I'm a **Python Developer** who loves **clean code*
 - 🔭 I’m currently working on **backend development with Python & Django**.
 - 🌱 I’m learning **AWS, Service Scalability, and advanced system design**.
 - 💬 Ask me about **Python, Testing, Docker, and system architecture**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alibek-kidiraliev/) | [Telegram](https://t.me/alikidiraliev) | kidiraliev97@gmail.com
+- 📫 How to reach me out:
+
+📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
+💬 Telegram: [@alikidiraliev](https://t.me/alikidiraliev)  
+🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)
 
 ⚡ Fun fact: I started with PHP but switched to Python and interesting in Go! 😄
