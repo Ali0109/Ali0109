@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a **Python Developer** who loves **clean code*
 - 💬 Ask me about **Python, Testing, Docker, and system architecture**.
 - 📫 How to reach me out:
 
-📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
-💬 Telegram: [@alikidiraliev](https://t.me/alikidiraliev)  
-🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)
+    📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
+    💬 Telegram: [@alikidiraliev](https://t.me/alikidiraliev)  
+    🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)
 
 ⚡ Fun fact: I started with PHP but switched to Python and interesting in Go! 😄
