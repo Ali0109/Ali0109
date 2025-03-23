@@ -1,4 +1,4 @@
-# Hi, I'm Ali! 👋
+# Hi, I'm Alibek! 👋
 
 
 Welcome to my GitHub profile! I'm a **Python Developer** who loves **clean code**, **high-load systems**, and **automation**.
