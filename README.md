@@ -1,15 +1,11 @@
 # Hi, I'm Alibek! 👋
 
 
-Welcome to my GitHub profile! I'm a **Python Developer** who loves **clean code**, **high-load systems**, and **automation**.
+✨ **Backend engineer** with 4+ years building **Python** services. I focus on reliability, observability, and clean architecture for high-throughput systems.
+🐹 **Go & Kubernetes** — hands-on: containerized services.
+👥 I was the team lead of a small group of backend developers.
+📚 In my free time, I dive deeper into topics like scalable systems, architecture, and system design.
 
-- 🔭 I’m currently working on **backend development with Python**.
-- 🌱 I’m learning **AWS, Service Scalability, and advanced system design**.
-- 💬 Ask me about **Python, Testing, Docker, and system architecture**.
-- 📫 How to reach me out:
-
-    📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
-    🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)  
-    💬 Telegram: [@alibekkidiraliev](https://t.me/alibekkidiraliev)  
-
-⚡ Fun fact: I started with PHP but switched to Python and interesting in Go! 😄
+Contacts:
+📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
+🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)  
