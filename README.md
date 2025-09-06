@@ -7,5 +7,6 @@
 📚 In my free time, I dive deeper into topics like scalable systems, architecture, and system design.
 
 Contacts:
+
 📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
 🔗 LinkedIn: [Alibek Kidiraliev](https://www.linkedin.com/in/alibek-kidiraliev)  
