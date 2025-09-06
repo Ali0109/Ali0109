@@ -1,6 +1,6 @@
 # Hi, I'm Alibek! 👋
 
-
+# About me:
 - ✨ **Backend engineer** with 4+ years building **Python** services. I focus on reliability, observability, and clean architecture for high-throughput systems.
 - 🐹 **Go & Kubernetes** — hands-on: containerized services.
 - 👥 I was the team lead of a small group of backend developers.
