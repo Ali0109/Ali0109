@@ -1,4 +1,4 @@
-# Hi, I'm Alibek! 👋
+# Hi, I'm Alibek! (Python Engineer) 👋
 
 # 🚀 About Me
 - ✨ **Backend engineer** with 4+ years building **Python** services. I focus on reliability, observability, and clean architecture for high-throughput systems.
