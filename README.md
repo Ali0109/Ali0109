@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 - ✨ I am Python Developer | Software & Backend Engineer with 5+ years of build backend systems.
-- 🌎 Comfortable working remotely with distributed teams across Europe and the US.
+- 🌎 Working remotely with distributed teams across Europe and the US.
 
 # 📫 Contacts
 - 📩 Email: [kidiraliev97@gmail.com](mailto:kidiraliev97@gmail.com)  
